@@ -5,4 +5,9 @@ Welcome to Holidayz Landing Page website - "Life is an experiment in which you m
 
 ## Preview 👀
 
-[Live Demo](https://explor.netlify.app/)
+[Live Demo](https://exploringearthattractions.netlify.app/)
+
+## Features ✨
+
+- user interface
+- Fully Responsive
