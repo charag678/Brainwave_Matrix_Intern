@@ -20,9 +20,9 @@ Welcome to Holidayz Landing Page website - "Life is an experiment in which you m
 
 ## Technology </>
 
-* [Html]
-* [Css]
-* [Javascript]
+* Html
+* Css
+* Javascript
 
 
 ## Contributing 🤝🏼
