@@ -20,6 +20,6 @@ Welcome to Holidayz Landing Page website - "Life is an experiment in which you m
 
 ## Technology </>
 
-* [Html](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [Bootstrap](https://getbootstrap.com/)
+* [Html](https://html.org/)
+* [Css](https://css.org/)
+* [Javascript](https://js.com/)
