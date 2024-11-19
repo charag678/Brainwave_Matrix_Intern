@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOLIDAYZ</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar">
+        <h1 class="logo">HOLIDAYZ</h1>
+        <ul class="nav-link">
+            <li class="active"><a href="#"></a>Home</li>
+            <li class="active"><a href="#"></a>Tours</li>
+            <li class="active"><a href="#"></a>Explore</li>
+            <li class="active"><a href="#"></a>About</li>
+            <li class="ctn"><a href="#"></a>Contact</li>
+        </ul>
+        <img src="menu.png.png" alt="" class="menu-btn">
+    </nav>
+    <header>
+        <div class="header-content">
+            <h2>Exploring earth's attractions</h2>
+            <div class="line"></div>
+            <h1>Never Stop Exploring</h1>
+            <a href="#" class="ctn">Learn More</a>
+        </div>
+    </header>
+        <!--Event-->
+        <section class="event">
+            <div class="title">
+                <h1>Upcoming Package</h1>
+                <div class="line"></div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <img src="img1.png.jpg" alt="" width="380px">
+                    <h4>India</h4>
+                    <p>India is a place where colour is doubly bright. Pinks that scald your eyes, blues you could drown in.</p>
+                    <a href="#" class="ctn">Learn More</a>
+                </div>
+                <div class="col">
+                    <img src="img3.png.jpg" alt="" width="380px">
+                    <h4>Switzerland</h4>
+                    <p>Snow Capped mountains, gorgeous lakes amidst impressive medieval buildings, castles, and delectable cheese and chocolate… it’s tough not to like Switzerland.</p>
+                    <a href="#" class="ctn">Learn More</a>
+                </div>
+            </div>
+        </section>
+        <section class="explore">
+            <div class="explore-content">
+                <h1>Explore The World</h1>
+                <div class="line"></div>
+                <p>The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.</p>
+                <a href="#" class="ctn">Learn More</a>
+            </div>
+        </section>
+        <section class="tours">
+            <div class="row">
+                <div class="col content-col">
+                    <h1>UPCOMING TOURS & DESTINATION</h1>
+                    <div class="line"></div>
+                    <p>Memories Are Made By Going On A Journey These Memories Only Stay With You Throughout The Ages.</p>
+                    <a href="#" class="ctn">Learn More</a>
+                </div>
+                <div class="col image-col">
+                    <div class="image">
+                        <img src="img4.png.jpg" alt="" width="380px">
+                        <img src="img12.png.jpg" alt="" width="380px">
+                        <img src="img10.png.jpg" alt="" width="380px">
+                        <img src="img5.png.jpg" alt="" width="380px">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="footer">
+            <p>156 Avenue, NY 11066, Dublin, Ireland | Phone: 567-735-8732 | Email: tour@example.com</p>
+            <p>Copyright © 2024 | Chirag Sharma, All right reserved</p>
+        </section>
+
+    <script>
+        const menuBtn = document.querySelector('.menu-btn')
+        const navlink = document.querySelector('.nav-link')
+    
+        menuBtn.addEventListener('click',()=>{
+           navlink.classList.toggle('mobile-menu')
+        })
+    </script>
+</body>
+</html>
