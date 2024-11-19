@@ -11,3 +11,6 @@ Welcome to Holidayz Landing Page website - "Life is an experiment in which you m
 
 - user interface
 - Fully Responsive
+
+
+## Screenshots 📸
