@@ -15,4 +15,4 @@ Welcome to Holidayz Landing Page website - "Life is an experiment in which you m
 
 ## Screenshots 📸
 
-![travel](https://github.com/user-attachments/assets/5b3abecc-488c-4ef8-ae2b-c6d3bd9150ec)
+
